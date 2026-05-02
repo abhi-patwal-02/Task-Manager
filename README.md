@@ -6,10 +6,11 @@ A scalable backend service powering a collaborative task management platform wit
 
 ## 🌐 Live API
 
-https://task-manager-production-856b.up.railway.app
+Primary (Railway): https://task-manager-production-856b.up.railway.app
 
-Railway trial ended so switched to render instead
-https://task-manager-3ry7.onrender.com
+Active Fallback(Render): https://task-manager-3ry7.onrender.com
+
+(Note: The initial Railway deployment exhausted its free-tier limits during the development and testing phase. To ensure the application remains fully live and accessible for your review, I have provided an active Render deployment above.)
 
 ---
 
