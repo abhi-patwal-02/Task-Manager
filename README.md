@@ -8,6 +8,9 @@ A scalable backend service powering a collaborative task management platform wit
 
 https://task-manager-production-856b.up.railway.app
 
+Railway trial ended so switched to render instead
+https://task-manager-3ry7.onrender.com
+
 ---
 
 ## 🧠 Overview
